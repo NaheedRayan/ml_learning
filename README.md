@@ -1,3 +1,5 @@
+This Repo is for Self Improvement
+
 Creating Virtual Environment
 
 ```
@@ -16,3 +18,9 @@ Phase1
     - Constructor with type hints
     - Instance VS Class vairable
 - List Comprehensions
+- Generators 
+- Decorators
+
+
+
+
