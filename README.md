@@ -20,6 +20,15 @@ Phase1
 - List Comprehensions
 - Generators 
 - Decorators
+- Context Managers
+- Dataclasses
+- Typing
+- Slots
+- Enumerate
+- ZIP
+- Map
+
+
 
 
 
